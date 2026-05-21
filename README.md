@@ -1,4 +1,4 @@
-# 🩺 Skin Cancer Classification using Deep Learning
+# 🩺 Skin Lesion Classification using Deep Learning
 
 A Deep Learning based medical image classification project that detects and classifies different types of skin cancer using Convolutional Neural Networks (CNNs).
 
